@@ -1,0 +1,44 @@
+.rooot {
+	width: 1110px;
+	margin: 0 auto;
+
+	height: 100vh;
+}
+body {
+	background: #000000;
+	padding: 0;
+	margin: 0;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 27px 0 34px 0;
+}
+
+.header {
+}
+
+.header__list {
+}
+
+.header__litle {
+	color: #636363;
+}
+.header__litle1 {
+	color: #636363;
+	text-decoration: none;
+}
+.header__litle:not(:last-child) {
+	padding: 0 30px 0 0;
+}
+
+.header__text {
+	color: #ffffff;
+	border: 1px solid rgb(216, 210, 210);
+	padding: 14px 32px 14px 32px;
+	margin: 0 20px 0 0;
+	border-radius: 8px;
+	text-decoration: none;
+}
