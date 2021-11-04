@@ -26,3 +26,62 @@
 	padding: 18px 31px;
 	color: #cd3939;
 }
+
+.content__title {
+	font-size: 74px;
+	font-weight: 700;
+	line-height: 75px;
+	text-align: left;
+	color: #ffffff;
+	width: 500px;
+}
+
+.content__text {
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 36px;
+	text-align: left;
+	color: #636363;
+	width: 475px;
+	margin: 32px 0 39px 0;
+}
+
+.content__button button {
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 19px;
+	text-align: left;
+	color: #ffffff;
+	padding: 19px 25px;
+	background: #cd3939;
+	border: 1px solid rgba(255, 255, 255, 0.11);
+	box-sizing: border-box;
+	border-radius: 11px;
+	background: url("telegram-cloud-photo-size-2-5341787041379236136-y\ 101.png") 50% 0 no-repeat;
+}
+
+.content__text__twe {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	text-align: left;
+	color: #636363;
+	width: 468px;
+	margin: 32px 0 0 0;
+}
+
+.content__IMG {
+	width: 700px;
+	height: 545px;
+	transform: translate(120px, 20%);
+	background: url("telegram-cloud-photo-size-2-5341787041379236136-y\ 101.png") 50% 0 no-repeat;
+	overflow: visible;
+}
+
+.content__block {
+	background: url("zombie-hand-halloween-theme-concept\ 102.png") 160% 300% no-repeat;
+}
+
+.content__infos {
+	display: flex;
+}
